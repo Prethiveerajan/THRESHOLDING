@@ -1,4 +1,4 @@
-![gray7](https://github.com/Prethiveerajan/THRESHOLDING/assets/94233064/b29515bd-f6c5-4b57-9f57-d33f474523e5)# THRESHOLDING
+# THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding, and Otsu's thresholding using Python and OpenCV.
 
